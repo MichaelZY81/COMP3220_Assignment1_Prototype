@@ -1,0 +1,13 @@
+body{background-color:pink}
+h1,h2,h3{
+    font-family:cursive;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+img{
+    width:250px;
+    height:200px;
+}
